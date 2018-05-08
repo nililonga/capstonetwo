@@ -1,0 +1,7 @@
+C:\Users\noeil\source\repos\CapstoneTwo\CapstoneTwo\bin\Debug\CapstoneTwo.exe.config
+C:\Users\noeil\source\repos\CapstoneTwo\CapstoneTwo\bin\Debug\CapstoneTwo.exe
+C:\Users\noeil\source\repos\CapstoneTwo\CapstoneTwo\bin\Debug\CapstoneTwo.pdb
+C:\Users\noeil\source\repos\CapstoneTwo\CapstoneTwo\obj\Debug\CapstoneTwo.csprojResolveAssemblyReference.cache
+C:\Users\noeil\source\repos\CapstoneTwo\CapstoneTwo\obj\Debug\CapstoneTwo.csproj.CoreCompileInputs.cache
+C:\Users\noeil\source\repos\CapstoneTwo\CapstoneTwo\obj\Debug\CapstoneTwo.exe
+C:\Users\noeil\source\repos\CapstoneTwo\CapstoneTwo\obj\Debug\CapstoneTwo.pdb
