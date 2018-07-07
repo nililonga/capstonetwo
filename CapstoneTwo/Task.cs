@@ -11,6 +11,8 @@ namespace CapstoneTwo
         private string v1;
         private int v2;
 
+        public bool taskcomplete { get; set; }
+
         public string TaskName { get; set; }
 
         public int TaskNumber { get; set; }
@@ -24,7 +26,7 @@ namespace CapstoneTwo
             DueDate = DateTime.Now.AddDays(14);
 
 
-
+            taskcomplete = false;
         }
         /*
         public Task(string v1, int v2)
